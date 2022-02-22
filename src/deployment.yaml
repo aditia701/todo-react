@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: todo-react
-        image: gustysap/todo-react:latest
+        image: aditiaipr/todo-react:latest
         ports:
         - containerPort: 5000
 
